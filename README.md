@@ -1,3 +1,19 @@
+# Miner Checker
+Checking if there are miner processes running on your GPUs.
+
+## Requirements
+
+- python3
+- paramiko
+- tabulate
+
+## Usage
+
+```bash
+
+> python miner_checker.py -s USER IP
+```
+
 # Remote GPU Monitor
 
 This Python script allows to check for free Nvidia GPUs in remote servers.
