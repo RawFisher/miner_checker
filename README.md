@@ -11,7 +11,7 @@ Checking if there are miner processes running on your GPUs.
 
 ```bash
 
-> python miner_checker.py -s USER IP
+> python miner_checker.py -s USER IP  # USER must have sudo privilege
 ```
 
 # Remote GPU Monitor
